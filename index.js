@@ -28,6 +28,7 @@ app.get('/computer-api/v0/nfts/:nftId', function(req, res) {
         const jsonBuffer = fs.readFileSync(jsonPath);
         const jsonString = jsonBuffer.toString();
         const jsonData = JSON.parse(jsonString);
+        jsonData.external_url = `https://example.com/?token_id=${nftId}`;
         jsonData.image = `${imageURI}/computer-api/v0/nfts/images/${nftId}.png`;
         return res.json(jsonData);
     } catch (e) {
