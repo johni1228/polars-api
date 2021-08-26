@@ -23,13 +23,13 @@ app.get('/images/:image', function(req, res) {
 
 app.get('/api/v0/nfts/:nftId', function(req, res) {
     const nftId = parseInt(req.params.nftId) + 1;
-    const jsonPath = `${dataDir}/json/${nftId}.json`;
+    const jsonPath = `${dataDir}/json/bear${nftId}.json`;
     try {
         const jsonBuffer = fs.readFileSync(jsonPath);
         const jsonString = jsonBuffer.toString();
         const jsonData = JSON.parse(jsonString);
         jsonData.external_url = `https://example.com/?token_id=${nftId}`;
-        jsonData.image = `${imageURI}/images/${nftId}.png`;
+        jsonData.image = `${imageURI}/images/polarbear${nftId}.png`;
         return res.json(jsonData);
     } catch (e) {
         console.log(e);
