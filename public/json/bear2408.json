@@ -1,0 +1,34 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Glasses",
+      "value": "cool gold"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "bucket hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "sparkling"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "no expression"
+    },
+    {
+      "trait_type": "Shirts",
+      "value": "basketball"
+    },
+    {
+      "trait_type": "Color",
+      "value": "#F6C3DB"
+    },
+    {
+      "trait_type": "Background",
+      "value": "#98CDCD"
+    }
+  ],
+  "description": "This is a bear",
+  "name": "polaBear2408"
+}

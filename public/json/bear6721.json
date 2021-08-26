@@ -1,0 +1,34 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Glasses",
+      "value": "nerdy"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "poop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "angry"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "standard"
+    },
+    {
+      "trait_type": "Shirts",
+      "value": "hawaiian2"
+    },
+    {
+      "trait_type": "Color",
+      "value": "#FFFFFF"
+    },
+    {
+      "trait_type": "Background",
+      "value": "#B5B3DA"
+    }
+  ],
+  "description": "This is a bear",
+  "name": "polaBear6721"
+}

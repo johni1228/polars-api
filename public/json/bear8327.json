@@ -1,0 +1,34 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Glasses",
+      "value": "cool pink"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "green mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "wink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "standard"
+    },
+    {
+      "trait_type": "Shirts",
+      "value": "basketball"
+    },
+    {
+      "trait_type": "Color",
+      "value": "#959A99"
+    },
+    {
+      "trait_type": "Background",
+      "value": "#98CDCD"
+    }
+  ],
+  "description": "This is a bear",
+  "name": "polaBear8327"
+}

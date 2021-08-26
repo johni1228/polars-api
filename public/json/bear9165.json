@@ -1,0 +1,34 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Glasses",
+      "value": "standard"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "sausage"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "standard"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "standard"
+    },
+    {
+      "trait_type": "Shirts",
+      "value": "tattoos"
+    },
+    {
+      "trait_type": "Color",
+      "value": "#F6C3DB"
+    },
+    {
+      "trait_type": "Background",
+      "value": "#98CDCD"
+    }
+  ],
+  "description": "This is a bear",
+  "name": "polaBear9165"
+}

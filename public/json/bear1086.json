@@ -1,0 +1,34 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Glasses",
+      "value": "vintage red"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "aviator"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "wink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "yawn"
+    },
+    {
+      "trait_type": "Shirts",
+      "value": "basketball"
+    },
+    {
+      "trait_type": "Color",
+      "value": "#959A99"
+    },
+    {
+      "trait_type": "Background",
+      "value": "#EE2840"
+    }
+  ],
+  "description": "This is a bear",
+  "name": "polaBear1086"
+}

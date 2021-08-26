@@ -1,0 +1,34 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Glasses",
+      "value": "vintage red"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "aviator"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "wink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "standard"
+    },
+    {
+      "trait_type": "Shirts",
+      "value": "hoodie"
+    },
+    {
+      "trait_type": "Color",
+      "value": "#387DDC"
+    },
+    {
+      "trait_type": "Background",
+      "value": "#FAE74B"
+    }
+  ],
+  "description": "This is a bear",
+  "name": "polaBear5867"
+}

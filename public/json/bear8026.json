@@ -1,0 +1,34 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Glasses",
+      "value": "shiny"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "bucket hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "closed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "standard"
+    },
+    {
+      "trait_type": "Shirts",
+      "value": "standard"
+    },
+    {
+      "trait_type": "Color",
+      "value": "#C62B3E"
+    },
+    {
+      "trait_type": "Background",
+      "value": "#FD9DCB"
+    }
+  ],
+  "description": "This is a bear",
+  "name": "polaBear8026"
+}

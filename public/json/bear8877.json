@@ -1,0 +1,34 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Glasses",
+      "value": "nerdy"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "bucket hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "standard"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "open"
+    },
+    {
+      "trait_type": "Shirts",
+      "value": "scarf"
+    },
+    {
+      "trait_type": "Color",
+      "value": "#181B2B"
+    },
+    {
+      "trait_type": "Background",
+      "value": "#B5B3DA"
+    }
+  ],
+  "description": "This is a bear",
+  "name": "polaBear8877"
+}

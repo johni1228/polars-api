@@ -1,0 +1,34 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Glasses",
+      "value": "plastic"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "bucket hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "sparkling"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "smoking"
+    },
+    {
+      "trait_type": "Shirts",
+      "value": "scarf"
+    },
+    {
+      "trait_type": "Color",
+      "value": "#959A99"
+    },
+    {
+      "trait_type": "Background",
+      "value": "#98CDCD"
+    }
+  ],
+  "description": "This is a bear",
+  "name": "polaBear8891"
+}

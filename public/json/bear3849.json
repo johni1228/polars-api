@@ -1,0 +1,34 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Glasses",
+      "value": "shiny"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "blue mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "wink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "no expression"
+    },
+    {
+      "trait_type": "Shirts",
+      "value": "overalls"
+    },
+    {
+      "trait_type": "Color",
+      "value": "#387DDC"
+    },
+    {
+      "trait_type": "Background",
+      "value": "#98CDCD"
+    }
+  ],
+  "description": "This is a bear",
+  "name": "polaBear3849"
+}

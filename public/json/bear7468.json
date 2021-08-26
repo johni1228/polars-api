@@ -1,0 +1,34 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Glasses",
+      "value": "plastic"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "bucket hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "sparkling"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "fish"
+    },
+    {
+      "trait_type": "Shirts",
+      "value": "basketball"
+    },
+    {
+      "trait_type": "Color",
+      "value": "#F6C3DB"
+    },
+    {
+      "trait_type": "Background",
+      "value": "#FAE74B"
+    }
+  ],
+  "description": "This is a bear",
+  "name": "polaBear7468"
+}

@@ -1,0 +1,34 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Glasses",
+      "value": "standard"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "green mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "sparkling"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "grinning"
+    },
+    {
+      "trait_type": "Shirts",
+      "value": "collared"
+    },
+    {
+      "trait_type": "Color",
+      "value": "#387DDC"
+    },
+    {
+      "trait_type": "Background",
+      "value": "#98CDCD"
+    }
+  ],
+  "description": "This is a bear",
+  "name": "polaBear3760"
+}

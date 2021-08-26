@@ -1,0 +1,34 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Glasses",
+      "value": "transparent"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "aviator"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "standard"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "no expression"
+    },
+    {
+      "trait_type": "Shirts",
+      "value": "overalls"
+    },
+    {
+      "trait_type": "Color",
+      "value": "#959A99"
+    },
+    {
+      "trait_type": "Background",
+      "value": "#98CDCD"
+    }
+  ],
+  "description": "This is a bear",
+  "name": "polaBear9537"
+}

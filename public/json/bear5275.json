@@ -1,0 +1,34 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Glasses",
+      "value": "nerdy"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "sparkling"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "yawn"
+    },
+    {
+      "trait_type": "Shirts",
+      "value": "hoodie"
+    },
+    {
+      "trait_type": "Color",
+      "value": "#959A99"
+    },
+    {
+      "trait_type": "Background",
+      "value": "#B5B3DA"
+    }
+  ],
+  "description": "This is a bear",
+  "name": "polaBear5275"
+}

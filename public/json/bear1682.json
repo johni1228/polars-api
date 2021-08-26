@@ -1,0 +1,34 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Glasses",
+      "value": "nerdy"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "standard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "dizzy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "no expression"
+    },
+    {
+      "trait_type": "Shirts",
+      "value": "hawaiian3"
+    },
+    {
+      "trait_type": "Color",
+      "value": "#959A99"
+    },
+    {
+      "trait_type": "Background",
+      "value": "#EE2840"
+    }
+  ],
+  "description": "This is a bear",
+  "name": "polaBear1682"
+}

@@ -1,0 +1,34 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Glasses",
+      "value": "shiny"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "red mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "closed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "no expression"
+    },
+    {
+      "trait_type": "Shirts",
+      "value": "punk"
+    },
+    {
+      "trait_type": "Color",
+      "value": "#F6C3DB"
+    },
+    {
+      "trait_type": "Background",
+      "value": "#B5B3DA"
+    }
+  ],
+  "description": "This is a bear",
+  "name": "polaBear3222"
+}

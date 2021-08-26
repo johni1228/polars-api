@@ -1,0 +1,34 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Glasses",
+      "value": "shiny"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "ribs"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "closed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "yawn"
+    },
+    {
+      "trait_type": "Shirts",
+      "value": "basketball"
+    },
+    {
+      "trait_type": "Color",
+      "value": "#FFFFFF"
+    },
+    {
+      "trait_type": "Background",
+      "value": "#B5B3DA"
+    }
+  ],
+  "description": "This is a bear",
+  "name": "polaBear6121"
+}

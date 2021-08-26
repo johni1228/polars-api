@@ -1,0 +1,34 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Glasses",
+      "value": "nerdy"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "red mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "standard"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "open"
+    },
+    {
+      "trait_type": "Shirts",
+      "value": "punk"
+    },
+    {
+      "trait_type": "Color",
+      "value": "#959A99"
+    },
+    {
+      "trait_type": "Background",
+      "value": "#F68A5C"
+    }
+  ],
+  "description": "This is a bear",
+  "name": "polaBear334"
+}

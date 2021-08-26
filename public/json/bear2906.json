@@ -1,0 +1,34 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Glasses",
+      "value": "cool pink"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "ribs"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "wink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "open"
+    },
+    {
+      "trait_type": "Shirts",
+      "value": "inmate"
+    },
+    {
+      "trait_type": "Color",
+      "value": "#D9BD9E"
+    },
+    {
+      "trait_type": "Background",
+      "value": "#FD9DCB"
+    }
+  ],
+  "description": "This is a bear",
+  "name": "polaBear2906"
+}

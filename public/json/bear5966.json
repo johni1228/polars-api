@@ -1,0 +1,34 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Glasses",
+      "value": "shiny"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "aviator"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "angry"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "grinning"
+    },
+    {
+      "trait_type": "Shirts",
+      "value": "punk"
+    },
+    {
+      "trait_type": "Color",
+      "value": "#D9BD9E"
+    },
+    {
+      "trait_type": "Background",
+      "value": "#98CDCD"
+    }
+  ],
+  "description": "This is a bear",
+  "name": "polaBear5966"
+}

@@ -1,0 +1,34 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Glasses",
+      "value": "plastic"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "ribs"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "sparkling"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "grinning"
+    },
+    {
+      "trait_type": "Shirts",
+      "value": "collared"
+    },
+    {
+      "trait_type": "Color",
+      "value": "#959A99"
+    },
+    {
+      "trait_type": "Background",
+      "value": "#FD9DCB"
+    }
+  ],
+  "description": "This is a bear",
+  "name": "polaBear402"
+}

@@ -1,0 +1,34 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Glasses",
+      "value": "shiny"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "aviator"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "angry"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "grinning"
+    },
+    {
+      "trait_type": "Shirts",
+      "value": "inmate"
+    },
+    {
+      "trait_type": "Color",
+      "value": "#F6C3DB"
+    },
+    {
+      "trait_type": "Background",
+      "value": "#EE2840"
+    }
+  ],
+  "description": "This is a bear",
+  "name": "polaBear416"
+}
