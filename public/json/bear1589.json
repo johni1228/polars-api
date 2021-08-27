@@ -1,34 +1,26 @@
 {
   "attributes": [
     {
-      "trait_type": "Glasses",
+      "trait_type": "glasses",
       "value": "shiny"
     },
     {
-      "trait_type": "Hats",
+      "trait_type": "hats",
       "value": "aviator"
     },
     {
-      "trait_type": "Eyes",
+      "trait_type": "eyes",
       "value": "dizzy"
     },
     {
-      "trait_type": "Mouth",
+      "trait_type": "mouth",
       "value": "open"
     },
     {
-      "trait_type": "Shirts",
+      "trait_type": "shirts",
       "value": "tattoos"
-    },
-    {
-      "trait_type": "Color",
-      "value": "#FFFFFF"
-    },
-    {
-      "trait_type": "Background",
-      "value": "#F68A5C"
     }
   ],
-  "description": "This is a bear",
+  "description": "This is a polar bear NFT",
   "name": "polaBear1589"
 }

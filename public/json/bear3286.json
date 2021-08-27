@@ -1,34 +1,26 @@
 {
   "attributes": [
     {
-      "trait_type": "Glasses",
+      "trait_type": "glasses",
       "value": "standard"
     },
     {
-      "trait_type": "Hats",
+      "trait_type": "hats",
       "value": "fishing hat"
     },
     {
-      "trait_type": "Eyes",
+      "trait_type": "eyes",
       "value": "closed"
     },
     {
-      "trait_type": "Mouth",
+      "trait_type": "mouth",
       "value": "no expression"
     },
     {
-      "trait_type": "Shirts",
+      "trait_type": "shirts",
       "value": "basketball"
-    },
-    {
-      "trait_type": "Color",
-      "value": "#181B2B"
-    },
-    {
-      "trait_type": "Background",
-      "value": "#E6CAAF"
     }
   ],
-  "description": "This is a bear",
+  "description": "This is a polar bear NFT",
   "name": "polaBear3286"
 }
